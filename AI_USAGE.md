@@ -8,16 +8,16 @@ No AI tools were used.
 
 ## Tools used
 
-- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot):
+- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot): ChatGPT-6.2
 
 ## Conversation links
 
-- Link 1:
+- Link 1: https://chatgpt.com/s/cx_6b06b172d0e48191b8dc16c5ddf232b7
 - Link 2:
 
 ## What I used them for
 
-- e.g. explaining argparse, debugging the date validation, generating test data
+- explaining the whole code
 
 ## Which parts of the code were AI-generated or substantially AI-assisted
 
@@ -27,7 +27,7 @@ No AI tools were used.
 
 ## Key prompts
 
-1.
+1. explin me everything in detail
 2.
 
 ## What I changed or verified myself
